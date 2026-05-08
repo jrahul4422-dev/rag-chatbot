@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+vectorstore/
+data/uploaded_pdfs/
+.venv/
+venv/
+.DS_Store
